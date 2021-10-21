@@ -1,0 +1,20 @@
+{
+  "name": "perfectNumbers",
+  "version": "1.0.0",
+  "description": "An algorithm to calculate if a number is perfect or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FRDDY811/perfectNumbers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FRDDY811/perfectNumbers/issues"
+  },
+  "homepage": "https://github.com/FRDDY811/perfectNumbers#readme"
+}
