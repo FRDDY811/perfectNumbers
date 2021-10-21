@@ -5,9 +5,9 @@ function perfectNumber (n) {
       x += i
     }
   }
-    const result = x != 0 && x == n
+    const result = x !== 0 && x === n
   
     result ?  console.log(`El numero ${n} es perfecto`) : console.log(`El numero ${n} no es perfecto`)
 }
 
-perfectNumber(4)
+perfectNumber(6)
